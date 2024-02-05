@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/archive.png</file>
+        <file>img/settings.png</file>
+        <file>img/reestr.png</file>
+        <file>img/new_task2.png</file>
+        <file>img/graphic.png</file>
+        <file>img/ИРИТ_РтФ.png</file>
+        <file>img/formula1.png</file>
+        <file>img/formula_2.png</file>
+        <file>img/formula3.png</file>
+        <file>img/formula4.png</file>
+        <file>img/wifi.png</file>
+        <file>img/action_log.png</file>
+        <file>img/addfile_32x32.png</file>
+        <file>img/application_from_storage.png</file>
+        <file>img/attributes_display.png</file>
+        <file>img/book1.png</file>
+        <file>img/document_inspector.png</file>
+        <file>img/report.png</file>
+        <file>img/settings-.png</file>
+        <file>img/wifi.ico</file>
+        <file>img/order.png</file>
+        <file>img/units_view.png</file>
+    </qresource>
+</RCC>
